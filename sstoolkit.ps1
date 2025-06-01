@@ -6,7 +6,7 @@ if (!(Test-Path $downloadFolder)) { New-Item -ItemType Directory -Path $download
 $files = @(
     "https://github.com/txvch/Screenshare-Collector/archive/refs/heads/main.zip",
     "https://www.voidtools.com/Everything-1.4.1.1027.x86-Setup.exe",
-    "https://cdn.discordapp.com/attachments/1371804394772893807/1373612403035603017/espoukenBitrate.exe",
+    "https://github.com/spokwn/Tool/releases/download/v1.1.1/espoukenBitrate.exe",
     "https://www.nirsoft.net/utils/usbdeview.zip",
     "https://downloads.sourceforge.net/project/systeminformer/systeminformer-3.2.25011-release-setup.exe",
     "https://www.nirsoft.net/utils/lastactivityview.zip",
@@ -14,11 +14,11 @@ $files = @(
     "https://github.com/nay-cat/dpsanalyzer/releases/download/1.3/dpsanalyzer.exe",
     "https://github.com/nay-cat/DebuggerFinder/releases/download/v2/DebuggerFinder.exe",
     "https://d1kpmuwb7gvu1i.cloudfront.net/AccessData_FTK_Imager_4.7.1.exe",
-    "https://cdn.discordapp.com/attachments/1374798427531120670/1374798489787044033/MagnetProcessCaptureV13.zip",
+    "https://download1523.mediafire.com/omy5e27x323ggrnl1Iq2VFGh0o8b5jU8TXv7qI7GVrLPtCkc5D1cSh6oqF8UpxBRlPqe2lEZa9U6wxuIMIE-gw8f-sG6nxLaCd6LfDYTQcZ_mfzNqZH4Oi6P6xDixD87wfOFym839KThEf_dWdKvb_kTIQETVyy2PZFKTtEHWdk/pbg2jq0fvr3wl2l/MRCv120_1.exe",
     "https://github.com/RickLeinecker/SeeShellsv2/releases/download/v2.0-production/SeeShellsV2.zip",
     "https://github.com/kacos2000/Win10LiveInfo/releases/download/v.1.0.23.0/WinLiveInfo.exe",
-    "https://cdn.discordapp.com/attachments/1221836615392170106/1247541187657596990/MRCv120_1.exe",
-    "https://cdn.discordapp.com/attachments/1232297192673382461/1232300669197746258/hollows_hunter32.exe",
+    "https://download1527.mediafire.com/sgun0hfbowtgKrAN8qXlzhJsUuNuVGE7pffK2kKD4ZqdsqpzI79JQ9zJBXjlC95T8j807trY6MpJj24L-Nx3bWDtu9-s8NLZq-uXJkN6RiQqqRjndcIwT2-j05fGlGwmeUoTYB4MHLr8dWUZg3f3OoI6AXwFcBtVHAXf8bZwREk/kb2mqknpc7gug3d/MagnetProcessCaptureV13.zip"
+    "https://github.com/hasherezade/hollows_hunter/releases/download/v0.4.1/hollows_hunter32.exe",
     "https://www.nirsoft.net/utils/browsinghistoryview.zip",
     "https://github.com/EricZimmerman/MFT/archive/refs/tags/1.5.1.zip"
 )
