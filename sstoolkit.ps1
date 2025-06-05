@@ -37,7 +37,8 @@ $files = @(
     "https://download.ericzimmermanstools.com/net6/WxTCmd.zip",
     "https://www.nirsoft.net/utils/alternatestreamview-x64.zip",
     "https://download.ericzimmermanstools.com/AppCompatCacheParser.zip",
-    "https://download.ericzimmermanstools.com/SrumECmd.zip"
+    "https://download.ericzimmermanstools.com/SrumECmd.zip",
+    "https://www.brimorlabs.com/Tools/LiveResponseCollection-Cedarpelta.zip"
 )
 
 # Scarica ogni file
