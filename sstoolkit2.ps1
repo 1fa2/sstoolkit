@@ -5,7 +5,7 @@ if (!(Test-Path $downloadFolder)) { New-Item -ItemType Directory -Path $download
 # Elenco dei file da scaricare
 $files = @(
     "https://www.voidtools.com/Everything-1.4.1.1027.x86-Setup.exe",
-    "https://download1325.mediafire.com/x15rfdpcknqgHY1lHCR7gOhHdQAWNLuTlYEqka0vGr97dhZgBF7JQhaGPkLDzEIM0949vziOPpPetBOBm3rJtDEMaiVwVDHY3muPRFVvlNyEZOuyvOUiFaCGguB4MpFp8Nwv9mkJURws6i7DdOvMsXy7PJnZ1fM-rpYP_NusPTo/6f1dvssrg31ys4a/Screenshare+Collector.exe"
+    "https://github.com/txvch/Screenshare-Collector/releases/download/tech/Technical.Utilities.exe",
     "https://github.com/spokwn/Tool/releases/download/v1.1.1/espoukenBitrate.exe",
     "https://www.nirsoft.net/utils/usbdeview.zip",
     "https://downloads.sourceforge.net/project/systeminformer/systeminformer-3.2.25011-release-setup.exe",
