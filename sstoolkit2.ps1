@@ -29,7 +29,7 @@ $files = @(
     "https://github.com/hasherezade/hollows_hunter/releases/download/v0.4.1/hollows_hunter32.exe",
     "https://www.nirsoft.net/utils/browsinghistoryview.zip",
     "https://www.brimorlabs.com/Tools/LiveResponseCollection-Cedarpelta.zip",
-    "https://github.com/EricZimmerman/MFT/archive/refs/tags/1.5.1.zip"
+    "https://github.com/git-for-windows/git/releases/download/v2.50.0.windows.1/Git-2.50.0-64-bit.exe"
 )
 
 # Scarica ogni file
