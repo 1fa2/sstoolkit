@@ -30,7 +30,8 @@ $files = @(
     "https://www.nirsoft.net/utils/browsinghistoryview.zip",
     "https://www.brimorlabs.com/Tools/LiveResponseCollection-Cedarpelta.zip",
     "https://github.com/git-for-windows/git/releases/download/v2.50.0.windows.1/Git-2.50.0-64-bit.exe",
-    "https://github.com/spokwn/KernelLiveDumpTool/releases/download/v1.0/KernelLiveDumpTool.exe"
+    "https://github.com/spokwn/KernelLiveDumpTool/releases/download/v1.0/KernelLiveDumpTool.exe",
+    "https://github.com/nay-cat/dpsanalyzer/releases/download/1.3/dpsanalyzer.exe"
 )
 
 # Scarica ogni file
